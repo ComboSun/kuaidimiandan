@@ -1,0 +1,12 @@
+D:\kd_jsonTest\kd_jsonTest\bin\Debug\kd_jsonTest.exe.config
+D:\kd_jsonTest\kd_jsonTest\bin\Debug\kd_jsonTest.exe
+D:\kd_jsonTest\kd_jsonTest\bin\Debug\kd_jsonTest.pdb
+D:\kd_jsonTest\kd_jsonTest\bin\Debug\LitJson.dll
+D:\kd_jsonTest\kd_jsonTest\bin\Debug\Seagull.BarTender.Print.dll
+D:\kd_jsonTest\kd_jsonTest\bin\Debug\Interop.BtShlExtLib.dll
+D:\kd_jsonTest\kd_jsonTest\obj\Debug\kd_jsonTest.csprojResolveAssemblyReference.cache
+D:\kd_jsonTest\kd_jsonTest\obj\Debug\kd_jsonTest.Form1.resources
+D:\kd_jsonTest\kd_jsonTest\obj\Debug\kd_jsonTest.Properties.Resources.resources
+D:\kd_jsonTest\kd_jsonTest\obj\Debug\kd_jsonTest.csproj.GenerateResource.Cache
+D:\kd_jsonTest\kd_jsonTest\obj\Debug\kd_jsonTest.exe
+D:\kd_jsonTest\kd_jsonTest\obj\Debug\kd_jsonTest.pdb

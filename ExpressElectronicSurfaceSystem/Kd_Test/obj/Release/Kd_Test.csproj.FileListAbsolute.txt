@@ -1,0 +1,37 @@
+D:\代码\快递电子面单系统\Kd100_电子面单打印系统 - 副本\Kd_Test\bin\Release\Kd_Test.exe.config
+D:\代码\快递电子面单系统\Kd100_电子面单打印系统 - 副本\Kd_Test\bin\Release\Kd_Test.exe
+D:\代码\快递电子面单系统\Kd100_电子面单打印系统 - 副本\Kd_Test\bin\Release\Kd_Test.pdb
+D:\代码\快递电子面单系统\Kd100_电子面单打印系统 - 副本\Kd_Test\bin\Release\LitJson.dll
+D:\代码\快递电子面单系统\Kd100_电子面单打印系统 - 副本\Kd_Test\bin\Release\Seagull.BarTender.Print.dll
+D:\代码\快递电子面单系统\Kd100_电子面单打印系统 - 副本\Kd_Test\bin\Release\Interop.BtShlExtLib.dll
+D:\代码\快递电子面单系统\Kd100_电子面单打印系统 - 副本\Kd_Test\obj\Release\Kd_Test.csprojResolveAssemblyReference.cache
+D:\代码\快递电子面单系统\Kd100_电子面单打印系统 - 副本\Kd_Test\obj\Release\Kd_Test.frmLogin.resources
+D:\代码\快递电子面单系统\Kd100_电子面单打印系统 - 副本\Kd_Test\obj\Release\Kd_Test.KDApiOder.resources
+D:\代码\快递电子面单系统\Kd100_电子面单打印系统 - 副本\Kd_Test\obj\Release\Kd_Test.Properties.Resources.resources
+D:\代码\快递电子面单系统\Kd100_电子面单打印系统 - 副本\Kd_Test\obj\Release\Kd_Test.csproj.GenerateResource.Cache
+D:\代码\快递电子面单系统\Kd100_电子面单打印系统 - 副本\Kd_Test\obj\Release\Kd_Test.exe
+D:\代码\快递电子面单系统\Kd100_电子面单打印系统 - 副本\Kd_Test\obj\Release\Kd_Test.pdb
+D:\代码\快递电子面单系统\Kd100_电子面单打印系统\Kd_Test\bin\Release\Kd_Test.exe.config
+D:\代码\快递电子面单系统\Kd100_电子面单打印系统\Kd_Test\obj\Release\Kd_Test.exe
+D:\代码\快递电子面单系统\Kd100_电子面单打印系统\Kd_Test\obj\Release\Kd_Test.pdb
+D:\代码\快递电子面单系统\Kd电子面单系统\Kd_Test\bin\Release\Kd_Test.exe.config
+D:\代码\快递电子面单系统\Kd电子面单系统\Kd_Test\obj\Release\Kd_Test.exe
+D:\代码\快递电子面单系统\Kd电子面单系统\Kd_Test\obj\Release\Kd_Test.pdb
+D:\代码\快递电子面单系统\Kd电子面单系统\Kd_Test\bin\Release\Kd_Test.exe
+D:\代码\快递电子面单系统\Kd电子面单系统\Kd_Test\bin\Release\Kd_Test.pdb
+D:\代码\快递电子面单系统\Kd电子面单系统\Kd_Test\obj\Release\Kd_Test.csprojResolveAssemblyReference.cache
+D:\代码\快递电子面单系统\Kd电子面单系统\Kd_Test\obj\Release\Kd_Test.frmLogin.resources
+D:\代码\快递电子面单系统\Kd电子面单系统\Kd_Test\obj\Release\Kd_Test.KDApiOder.resources
+D:\代码\快递电子面单系统\Kd电子面单系统\Kd_Test\obj\Release\Kd_Test.Properties.Resources.resources
+D:\代码\快递电子面单系统\Kd电子面单系统\Kd_Test\obj\Release\Kd_Test.csproj.GenerateResource.Cache
+C:\Users\sunkb.CHENZHU\Desktop\Kd电子面单系统\Kd_Test\bin\Release\Kd_Test.exe.config
+C:\Users\sunkb.CHENZHU\Desktop\Kd电子面单系统\Kd_Test\obj\Release\Kd_Test.exe
+C:\Users\sunkb.CHENZHU\Desktop\Kd电子面单系统\Kd_Test\obj\Release\Kd_Test.pdb
+C:\Users\sunkb.CHENZHU\Desktop\Kd电子面单系统\Kd_Test\obj\Release\Kd_Test.frmLogin.resources
+C:\Users\sunkb.CHENZHU\Desktop\Kd电子面单系统\Kd_Test\obj\Release\Kd_Test.KDApiOder.resources
+C:\Users\sunkb.CHENZHU\Desktop\Kd电子面单系统\Kd_Test\obj\Release\Kd_Test.Properties.Resources.resources
+C:\Users\sunkb.CHENZHU\Desktop\Kd电子面单系统\Kd_Test\obj\Release\Kd_Test.csproj.GenerateResource.Cache
+C:\Users\sunkb.CHENZHU\Desktop\Kd电子面单系统\Kd_Test\bin\Release\Kd_Test.exe
+C:\Users\sunkb.CHENZHU\Desktop\Kd电子面单系统\Kd_Test\bin\Release\Kd_Test.pdb
+C:\Users\sunkb.CHENZHU\Desktop\Kd电子面单系统\Kd_Test\obj\Release\Kd_Test.csprojResolveAssemblyReference.cache
+C:\Users\sunkb.CHENZHU\Desktop\Kd电子面单系统\Kd_Test\bin\Release\LitJson.dll

@@ -1,0 +1,24 @@
+C:\Users\sunkb.CHENZHU\Documents\Visual Studio 2012\Projects\Kd_Print\Kd_Print\bin\Debug\Kd_Print.exe.config
+C:\Users\sunkb.CHENZHU\Documents\Visual Studio 2012\Projects\Kd_Print\Kd_Print\bin\Debug\Kd_Print.exe
+C:\Users\sunkb.CHENZHU\Documents\Visual Studio 2012\Projects\Kd_Print\Kd_Print\bin\Debug\Kd_Print.pdb
+C:\Users\sunkb.CHENZHU\Documents\Visual Studio 2012\Projects\Kd_Print\Kd_Print\bin\Debug\LitJson.dll
+C:\Users\sunkb.CHENZHU\Documents\Visual Studio 2012\Projects\Kd_Print\Kd_Print\bin\Debug\Seagull.BarTender.Print.dll
+C:\Users\sunkb.CHENZHU\Documents\Visual Studio 2012\Projects\Kd_Print\Kd_Print\bin\Debug\Interop.BtShlExtLib.dll
+C:\Users\sunkb.CHENZHU\Documents\Visual Studio 2012\Projects\Kd_Print\Kd_Print\obj\Debug\Kd_Print.csprojResolveAssemblyReference.cache
+C:\Users\sunkb.CHENZHU\Documents\Visual Studio 2012\Projects\Kd_Print\Kd_Print\obj\Debug\Kd_Print.Form1.resources
+C:\Users\sunkb.CHENZHU\Documents\Visual Studio 2012\Projects\Kd_Print\Kd_Print\obj\Debug\Kd_Print.Properties.Resources.resources
+C:\Users\sunkb.CHENZHU\Documents\Visual Studio 2012\Projects\Kd_Print\Kd_Print\obj\Debug\Kd_Print.csproj.GenerateResource.Cache
+C:\Users\sunkb.CHENZHU\Documents\Visual Studio 2012\Projects\Kd_Print\Kd_Print\obj\Debug\Kd_Print.exe
+C:\Users\sunkb.CHENZHU\Documents\Visual Studio 2012\Projects\Kd_Print\Kd_Print\obj\Debug\Kd_Print.pdb
+D:\代码\快递电子面单系统\Kd_Print\Kd_Print\bin\Debug\Kd_Print.exe.config
+D:\代码\快递电子面单系统\Kd_Print\Kd_Print\bin\Debug\Kd_Print.exe
+D:\代码\快递电子面单系统\Kd_Print\Kd_Print\bin\Debug\Kd_Print.pdb
+D:\代码\快递电子面单系统\Kd_Print\Kd_Print\bin\Debug\Seagull.BarTender.Print.dll
+D:\代码\快递电子面单系统\Kd_Print\Kd_Print\bin\Debug\Interop.BtShlExtLib.dll
+D:\代码\快递电子面单系统\Kd_Print\Kd_Print\bin\Debug\Seagull.BarTender.Print.xml
+D:\代码\快递电子面单系统\Kd_Print\Kd_Print\obj\Debug\Kd_Print.Form1.resources
+D:\代码\快递电子面单系统\Kd_Print\Kd_Print\obj\Debug\Kd_Print.Properties.Resources.resources
+D:\代码\快递电子面单系统\Kd_Print\Kd_Print\obj\Debug\Kd_Print.csproj.GenerateResource.Cache
+D:\代码\快递电子面单系统\Kd_Print\Kd_Print\obj\Debug\Kd_Print.exe
+D:\代码\快递电子面单系统\Kd_Print\Kd_Print\obj\Debug\Kd_Print.pdb
+D:\代码\快递电子面单系统\Kd_Print\Kd_Print\obj\Debug\Kd_Print.csprojResolveAssemblyReference.cache

@@ -1,0 +1,75 @@
+D:\kd_jsonTest\kd_jsonTest\bin\Debug\Kd_Test.exe.config
+D:\kd_jsonTest - 副本\kd_jsonTest\bin\Debug\Kd_Test.exe.config
+D:\kd_jsonTest - 副本\kd_jsonTest\bin\Debug\Kd_Test.exe
+D:\kd_jsonTest - 副本\kd_jsonTest\bin\Debug\Kd_Test.pdb
+D:\kd_jsonTest - 副本\kd_jsonTest\bin\Debug\LitJson.dll
+D:\kd_jsonTest - 副本\kd_jsonTest\bin\Debug\Seagull.BarTender.Print.dll
+D:\kd_jsonTest - 副本\kd_jsonTest\bin\Debug\Interop.BtShlExtLib.dll
+D:\kd_jsonTest - 副本\kd_jsonTest\obj\Debug\Kd_Test.csprojResolveAssemblyReference.cache
+D:\kd_jsonTest - 副本\kd_jsonTest\obj\Debug\Kd_Test.KDApiOder.resources
+D:\kd_jsonTest - 副本\kd_jsonTest\obj\Debug\Kd_Test.Properties.Resources.resources
+D:\kd_jsonTest - 副本\kd_jsonTest\obj\Debug\Kd_Test.csproj.GenerateResource.Cache
+D:\kd_jsonTest - 副本\kd_jsonTest\obj\Debug\Kd_Test.exe
+D:\kd_jsonTest - 副本\kd_jsonTest\obj\Debug\Kd_Test.pdb
+D:\kd_jsonTest - 解析用\kd_jsonTest\bin\Debug\Kd_Test.exe.config
+D:\kd_jsonTest - 解析用\kd_jsonTest\bin\Debug\Kd_Test.exe
+D:\kd_jsonTest - 解析用\kd_jsonTest\bin\Debug\Kd_Test.pdb
+D:\kd_jsonTest - 解析用\kd_jsonTest\bin\Debug\LitJson.dll
+D:\kd_jsonTest - 解析用\kd_jsonTest\bin\Debug\Seagull.BarTender.Print.dll
+D:\kd_jsonTest - 解析用\kd_jsonTest\bin\Debug\Interop.BtShlExtLib.dll
+D:\kd_jsonTest - 解析用\kd_jsonTest\obj\Debug\Kd_Test.csprojResolveAssemblyReference.cache
+D:\kd_jsonTest - 解析用\kd_jsonTest\obj\Debug\Kd_Test.KDApiOder.resources
+D:\kd_jsonTest - 解析用\kd_jsonTest\obj\Debug\Kd_Test.Properties.Resources.resources
+D:\kd_jsonTest - 解析用\kd_jsonTest\obj\Debug\Kd_Test.csproj.GenerateResource.Cache
+D:\kd_jsonTest - 解析用\kd_jsonTest\obj\Debug\Kd_Test.exe
+D:\kd_jsonTest - 解析用\kd_jsonTest\obj\Debug\Kd_Test.pdb
+D:\kd_jsonTest - 解析用 - 副本\kd_jsonTest\bin\Debug\Kd_Test.exe.config
+D:\kd_jsonTest - 解析用 - 副本\kd_jsonTest\bin\Debug\Kd_Test.exe
+D:\kd_jsonTest - 解析用 - 副本\kd_jsonTest\bin\Debug\Kd_Test.pdb
+D:\kd_jsonTest - 解析用 - 副本\kd_jsonTest\bin\Debug\LitJson.dll
+D:\kd_jsonTest - 解析用 - 副本\kd_jsonTest\bin\Debug\Seagull.BarTender.Print.dll
+D:\kd_jsonTest - 解析用 - 副本\kd_jsonTest\bin\Debug\Interop.BtShlExtLib.dll
+D:\kd_jsonTest - 解析用 - 副本\kd_jsonTest\obj\Debug\Kd_Test.KDApiOder.resources
+D:\kd_jsonTest - 解析用 - 副本\kd_jsonTest\obj\Debug\Kd_Test.Properties.Resources.resources
+D:\kd_jsonTest - 解析用 - 副本\kd_jsonTest\obj\Debug\Kd_Test.csproj.GenerateResource.Cache
+D:\kd_jsonTest - 解析用 - 副本\kd_jsonTest\obj\Debug\Kd_Test.exe
+D:\kd_jsonTest - 解析用 - 副本\kd_jsonTest\obj\Debug\Kd_Test.pdb
+D:\kd_jsonTest - 解析用 - 副本\kd_jsonTest\obj\Debug\Kd_Test.csprojResolveAssemblyReference.cache
+D:\Kd100_Test2\kd_jsonTest\bin\Debug\Kd_Test.exe.config
+D:\Kd100_Test2\kd_jsonTest\obj\Debug\Kd_Test.exe
+D:\Kd100_Test2\kd_jsonTest\obj\Debug\Kd_Test.pdb
+D:\Kd100_Test2\kd_jsonTest\bin\Debug\Kd_Test.exe
+D:\Kd100_Test2\kd_jsonTest\bin\Debug\Kd_Test.pdb
+D:\Kd100_Test2\kd_jsonTest\bin\Debug\LitJson.dll
+D:\Kd100_Test2\kd_jsonTest\bin\Debug\Seagull.BarTender.Print.dll
+D:\Kd100_Test2\kd_jsonTest\bin\Debug\Interop.BtShlExtLib.dll
+D:\Kd100_Test2\kd_jsonTest\obj\Debug\Kd_Test.csprojResolveAssemblyReference.cache
+D:\Kd100_Test2\kd_jsonTest\obj\Debug\Kd_Test.KDApiOder.resources
+D:\Kd100_Test2\kd_jsonTest\obj\Debug\Kd_Test.Properties.Resources.resources
+D:\Kd100_Test2\kd_jsonTest\obj\Debug\Kd_Test.csproj.GenerateResource.Cache
+D:\Kd100_Test2\kd_jsonTest\obj\Debug\Kd_Test.frmLogin.resources
+D:\代码\快递电子面单系统\Kd100_电子面单打印系统\kd_jsonTest\bin\Debug\Kd_Test.exe.config
+D:\代码\快递电子面单系统\Kd100_电子面单打印系统\kd_jsonTest\obj\Debug\Kd_Test.exe
+D:\代码\快递电子面单系统\Kd100_电子面单打印系统\kd_jsonTest\obj\Debug\Kd_Test.pdb
+D:\代码\快递电子面单系统\Kd100_电子面单打印系统\CZkd_Print\bin\Debug\Kd_Test.exe.config
+D:\代码\快递电子面单系统\Kd100_电子面单打印系统\CZkd_Print\obj\Debug\Kd_Test.exe
+D:\代码\快递电子面单系统\Kd100_电子面单打印系统\CZkd_Print\obj\Debug\Kd_Test.pdb
+D:\代码\快递电子面单系统\Kd100_电子面单打印系统\Kd_Test\bin\Debug\Kd_Test.exe.config
+D:\代码\快递电子面单系统\Kd100_电子面单打印系统\Kd_Test\obj\Debug\Kd_Test.exe
+D:\代码\快递电子面单系统\Kd100_电子面单打印系统\Kd_Test\obj\Debug\Kd_Test.pdb
+D:\代码\快递电子面单系统\Kd100_电子面单打印系统 - 副本\Kd_Test\bin\Debug\Kd_Test.exe.config
+D:\代码\快递电子面单系统\Kd100_电子面单打印系统 - 副本\Kd_Test\obj\Debug\Kd_Test.exe
+D:\代码\快递电子面单系统\Kd100_电子面单打印系统 - 副本\Kd_Test\obj\Debug\Kd_Test.pdb
+D:\代码\快递电子面单系统\Kd电子面单系统\Kd_Test\bin\Debug\Kd_Test.exe.config
+D:\代码\快递电子面单系统\Kd电子面单系统\Kd_Test\obj\Debug\Kd_Test.exe
+D:\代码\快递电子面单系统\Kd电子面单系统\Kd_Test\obj\Debug\Kd_Test.pdb
+D:\代码\快递电子面单系统\Kd电子面单系统\Kd_Test\bin\Debug\Kd_Test.exe
+D:\代码\快递电子面单系统\Kd电子面单系统\Kd_Test\bin\Debug\Kd_Test.pdb
+D:\代码\快递电子面单系统\Kd电子面单系统\Kd_Test\bin\Debug\LitJson.dll
+D:\代码\快递电子面单系统\Kd电子面单系统\Kd_Test\bin\Debug\Seagull.BarTender.Print.dll
+D:\代码\快递电子面单系统\Kd电子面单系统\Kd_Test\bin\Debug\Interop.BtShlExtLib.dll
+D:\代码\快递电子面单系统\Kd电子面单系统\Kd_Test\obj\Debug\Kd_Test.csprojResolveAssemblyReference.cache
+D:\代码\快递电子面单系统\Kd电子面单系统\Kd_Test\obj\Debug\Kd_Test.frmLogin.resources
+D:\代码\快递电子面单系统\Kd电子面单系统\Kd_Test\obj\Debug\Kd_Test.KDApiOder.resources
+D:\代码\快递电子面单系统\Kd电子面单系统\Kd_Test\obj\Debug\Kd_Test.Properties.Resources.resources
+D:\代码\快递电子面单系统\Kd电子面单系统\Kd_Test\obj\Debug\Kd_Test.csproj.GenerateResource.Cache
